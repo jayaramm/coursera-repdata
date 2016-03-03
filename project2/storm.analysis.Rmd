@@ -1,5 +1,5 @@
 Health and Economic Impact of Weather Events in the US
-======================================================
+=====================================================
 
 
 Storms and other severe weather events can cause both public health and economic
