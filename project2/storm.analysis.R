@@ -3,7 +3,7 @@
 storm <- read.csv(bzfile("data/repdata-data-StormData.csv.bz2"))
 
 
-## ------------------------------------------------------------------------
+## ----------------------------------------------------------------------
 # number of unique event types
 length(unique(storm$EVTYPE))
 # translate all letters to lowercase
